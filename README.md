@@ -1,5 +1,5 @@
 - # 👋 Hi, I’m @coderhanny
-Welcome to my profile! I'm a Full Stack Web Developer passionate about building dynamic and responsive websites and web applications. I'm here to help you with coding, debugging, and bringing your web projects to life.
+Welcome to my profile! I'm a **Full Stack Web Developer** passionate about building dynamic and responsive websites and web applications. I'm here to help you with coding, debugging, and bringing your web projects to life.
 ## 👀 I’m interested in...
 - **Frontend Development:** Building beautiful, user-friendly interfaces using HTML, CSS, and JavaScript (React, Vue.js, Angular).
 - **Backend Development:** Creating scalable server-side applications using Node.js, Express, Python (Django, Flask), and more.
@@ -25,6 +25,3 @@ Let’s build something amazing together! 🌐🚀
 
 
 
-
-
-ChatGPT can make mistakes. Check impo
